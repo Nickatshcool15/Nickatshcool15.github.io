@@ -99,11 +99,11 @@ var foo =function (bar) {
   
  [link text](https:https://ngg.798sc.com//)
  
- [link with title]([https://nodeca.github.io/pica/demo/"title text!"](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0kwZ2ZOSkswSmg0R0Q1eEV2T0dCSVM5OXhOUXxBQ3Jtc0ttV0tZM3dIck1FQnlIT3BfMlpiSXI0MVc5Q2haTDl2YzQwSkxiUlJiMHpvQ0ExeGtXbzVvZnlWM2tIWVh1Y0xGVHl4MUVHUjlWUFRFdTBFZ3lxZkRGQjkzYlpLR1hBV2pqdHMtMTV2QzJYc3duRU5acw&q=https%3A%2F%2Fngg.798sc.com%2F&v=_PgFirdx0eY))
+ [link with title](https://ngg.798sc.com/)
  
  ## Images
  
- ![minion](https://octodex.github.com/images/minion.png)
+ 
  
  $ sudo ufw status
 > Status: active
