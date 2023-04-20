@@ -1,131 +1,44 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="250"></p>
 
+<h1 align="center">Ultraviolet</h1>
 
-## Horizontal Rules
+<a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"><img src="https://img.shields.io/npm/v/@titaniumnetwork-dev/ultraviolet.svg?maxAge=3600" alt="npm version" /></a>
 
-----
+Ultraviolet is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Ultraviolet intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/tomphttp) and is a leader in innovative web proxy technologies.
 
+## Features
 
-##Emphasis
+Ultraviolet offers several features that set it apart from its predecessors, including CAPTCHA and hCAPTCHA support, URL encoding settings for added security, client-side configuration via service-workers, high speed compared to other web proxies, blacklist settings and more for easy hosting, leak prevention, regular updates, and improved resource usage and speed for better setups with a dedicated server instance.
 
-**This is bold text**
+## Supported Sites
 
-__This is bold text__
+Some of the popular websites that Ultraviolet supports include:
 
-*This text is italicized*
+-   [Google](https://google.com)
+-   [Youtube](https://www.youtube.com)
+-   [Spotify](https://spotify.com)
+-   [Discord](https://discord.com)
+-   [Reddit](https://reddit.com)
+-   [GeForce NOW](https://play.geforcenow.com/)
+-   [now.gg](https://now.gg)
 
-_This text is italicized_
+## Used by
+-   [Metallic](https://github.com/Metallic-Web/Metallic)
 
-~~Strikethrough~~
+## Changelog
 
+Changes are documented in the [changelog](./CHANGELOG.md).
 
-##Blockquotes
+## Deployment
 
+This repository can be built, but it can't be deployed to any services. See [Ultraviolet-App](https://github.com/titaniumnetwork-dev/Ultraviolet-App) for a complete and customizable Ultraviolet setup that you can deploy.
 
->Blockquotes can also be nested...
->> ... by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+## Documentation
 
+Documentation can be found in the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet/wiki).
 
-##Lists
-
-Unordered
-
-+Create a list by starting a line with `+`,`-`,or `*`
-+Sub-lists are made by indenting 2 spaces:
-  -Marker character change forces new list start:
-    *Ac tristique libero volutpat at
-    +Facilisis in pretium nisl aliquet
-    -Nulla volutpat aliquam velit
-+Very easy!
-
-Ordered
-
-1.Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-Indented code
-
-       //Some comments
-       line 1 of code
-       line 2 of code
-       line 3 of code
-       
-        
-Block code "fences"
-
-```
-Sample text here...
-
-
-syntax highlighting
-
-``` js
-var foo =function (bar) {
-   return bar++;
-   };
-   
-   console.log(foo(5}};
-   ```
-   
-   ##Tables
-   
-  |Option| |Description|
-  |------| |-----------|
-  |data  | path to data filesto supply the data that will be passed into templates.|
-  |engine| engine to be used for processing templates.Handlebars is the default.|
-  |ext   | extension to be used for dest files. |
-  
-  Right aligned columns
-  
-  |Option| |Description|
-  |------| |-----------|
-  |data  | path to data filesto supply the data that will be passed into templates.|
-  |engine| engine to be used for processing templates.Handlebars is the default.|
-  |ext   | extension to be used for dest files. |
-  
-  
-  ##Links
-  
- [link text](https:https://ngg.798sc.com//)
- 
- [link with title](https://ngg.798sc.com/)
- 
- ## Images
- 
- 
- 
- $ sudo ufw status
-> Status: active
-> To                         Action      From
-> --                         ------      ----
-> ghe-1194                   ALLOW       Anywhere
-> ghe-122                    ALLOW       Anywhere
-> ghe-161                    ALLOW       Anywhere
-> ghe-22                     ALLOW       Anywhere
-> ghe-25                     ALLOW       Anywhere
-> ghe-443                    ALLOW       Anywhere
-> ghe-80                     ALLOW       Anywhere
-> ghe-8080                   ALLOW       Anywhere
-> ghe-8443                   ALLOW       Anywhere
-> ghe-9418                   ALLOW       Anywhere
-> ghe-1194 (v6)              ALLOW       Anywhere (v6)
-> ghe-122 (v6)               ALLOW       Anywhere (v6)
-> ghe-161 (v6)               ALLOW       Anywhere (v6)
-> ghe-22 (v6)                ALLOW       Anywhere (v6)
-> ghe-25 (v6)                ALLOW       Anywhere (v6)
-> ghe-443 (v6)               ALLOW       Anywhere (v6)
-> ghe-80 (v6)                ALLOW       Anywhere (v6)
-> ghe-8080 (v6)              ALLOW       Anywhere (v6)
-> ghe-8443 (v6)              ALLOW       Anywhere (v6)
-> ghe-9418 (v6)              ALLOW       Anywhere (v6)
+-   [Holy Unblocker](https://github.com/holy-unblocker/website)
+-   [Hypertabs](https://hypertabs.cc/)
+-   [Terbium](https://github.com/TerbiumOS/webOS)
+-   [Incognito](https://github.com/caracal-js/Incognito)
+-   [Nebula](https://github.com/NebulaServices/Nebula)
