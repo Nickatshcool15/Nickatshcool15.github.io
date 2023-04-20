@@ -105,4 +105,27 @@ var foo =function (bar) {
  
  ![minion](https://octodex.github.com/images/minion.png)
  
- ## The End!
+ $ sudo ufw status
+> Status: active
+> To                         Action      From
+> --                         ------      ----
+> ghe-1194                   ALLOW       Anywhere
+> ghe-122                    ALLOW       Anywhere
+> ghe-161                    ALLOW       Anywhere
+> ghe-22                     ALLOW       Anywhere
+> ghe-25                     ALLOW       Anywhere
+> ghe-443                    ALLOW       Anywhere
+> ghe-80                     ALLOW       Anywhere
+> ghe-8080                   ALLOW       Anywhere
+> ghe-8443                   ALLOW       Anywhere
+> ghe-9418                   ALLOW       Anywhere
+> ghe-1194 (v6)              ALLOW       Anywhere (v6)
+> ghe-122 (v6)               ALLOW       Anywhere (v6)
+> ghe-161 (v6)               ALLOW       Anywhere (v6)
+> ghe-22 (v6)                ALLOW       Anywhere (v6)
+> ghe-25 (v6)                ALLOW       Anywhere (v6)
+> ghe-443 (v6)               ALLOW       Anywhere (v6)
+> ghe-80 (v6)                ALLOW       Anywhere (v6)
+> ghe-8080 (v6)              ALLOW       Anywhere (v6)
+> ghe-8443 (v6)              ALLOW       Anywhere (v6)
+> ghe-9418 (v6)              ALLOW       Anywhere (v6)
